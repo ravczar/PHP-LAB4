@@ -1,0 +1,18 @@
+W tym folderze znajduja sie trzy programy.
+Jeden zapisuje nasze do pliku "opinie.txt" i je wyswietla.
+-> Plik zapis.php  program z zajec
+-> Plik opinie.txt jest nasza baza do ktorej zapisujemy i z ktorej odczytujemy
+
+
+Drugi program odwraca kolejnosc wierszy z pliku tekstowego "opinie.txt" 
+i wyswietla zawartosc "in reverse".
+-> Plik odwrotna.php
+-> Plik  opinie.txt (zrodło)
+
+Trzeci program ma za zadanie zliczac nasze odwiedziny (odswiezenia strony )
+bez uzycia plikow cookie. Program odczytuje wartosc z pliku "licz.txt" 
+postinkrementuje ta wartosc i ponownie zapisuja ja do pliku. liczik znajduje
+sie u dolu strony.
+
+->plik klex.php
+->plik licz.txt (zrodlo licznika)
